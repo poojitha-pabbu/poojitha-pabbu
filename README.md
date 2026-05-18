@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi ,I'm Poojithapabbu .
+**Advanceddatasciencewith genAI** - SQL+powerBI,NLP,CNN,GENAI
 
-<!--
-**poojitha-pabbu/poojitha-pabbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+current projects ;
+i write tests with Numpy,tensorflow
+learning;
+portfolio/linkedin:https://www.linkedin.com/in/poojitha-pabbu-b4087440b/
 
-Here are some ideas to get you started:
+Tech
+python,SQL,POWERBI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects(pinned below)
+1. doing near by future
